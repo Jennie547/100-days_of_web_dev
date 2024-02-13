@@ -1,10 +1,16 @@
 # 100 DAYS OF WEB DEV WITH MY AI
 
+ _____     _             _____  _     _             
+|  _  |___| |_ _ _ ___  |  |  |_|___| |_ ___ ___ ___ 
+|     | -_| .'| | | -_|_|     | |_ -|   | -_|   | -_|
+|__|__|___|__,|_  |___|_|__|__|_|___|_|_|___|_|_|___|
+             |___|                                   
+
 
 ## WEBSITE DEVELOPMENT FRAMEWORK
 
 
-### HTML, CSS + SCASS AND JAVASCRIPT
+### HTML, CSS + SCSS AND JAVASCRIPT
 
 
 ## Introduction:
