@@ -1,8 +1,11 @@
 # 100 DAYS OF WEB DEV WITH MY AI
 
+
 ## WEBSITE DEVELOPMENT FRAMEWORK
 
+
 ### HTML, CSS + SCASS AND JAVASCRIPT
+
 
 ## Introduction:
 
@@ -19,7 +22,6 @@ CSS is responsible for the presentation and styling of a web page. It allows dev
 ## JavaScript:
 
 JavaScript is a powerful scripting language that brings interactivity and functionality to web pages. With JavaScript, developers can create dynamic elements and interactive features. It allows for user interaction, form validation, data manipulation, and animations. JavaScript can be used to fetch data from APIs, create interactive forms, build games, and much more. It enhances user experience by enabling real-time updates and client-side rendering. JavaScript, when combined with HTML and CSS, forms the basis of modern web applications and enables richer user experiences.
-
 
 
 
