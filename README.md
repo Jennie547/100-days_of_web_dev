@@ -31,6 +31,7 @@ Web development, consisting of HTML, CSS, and JavaScript, empowers developers to
 On this journey we will be building several projects day after day!
 
 | PER DAY | PROJECT |
+|---------|---------|
 | DAY 1 |  Create a simple webpage with a heading and a paragraph. |
 | DAY 2 | Build a form with text inputs, radio buttons, and a submit button. |
 | DAY 3 | Construct an ordered list with at least 5 items |
