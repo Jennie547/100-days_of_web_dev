@@ -1,11 +1,6 @@
 # 100 DAYS OF WEB DEV WITH MY AI
 
- _____     _             _____  _     _             
-|  _  |___| |_ _ _ ___  |  |  |_|___| |_ ___ ___ ___ 
-|     | -_| .'| | | -_|_|     | |_ -|   | -_|   | -_|
-|__|__|___|__,|_  |___|_|__|__|_|___|_|_|___|_|_|___|
-             |___|                                   
-
+This is a \u001b[31mred\u001b[0m word and this is a \u001b[34mblue\u001b[0m word.
 
 ## WEBSITE DEVELOPMENT FRAMEWORK
 
